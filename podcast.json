@@ -1,0 +1,86 @@
+{
+  "title": "Hora Ciega",
+  "description": "Historias originales de terror en espanol. Relatos lentos, inquietantes, narrados a oscuras. Una nueva historia cada semana. Escucha con las luces encendidas.",
+  "author": "Hora Ciega",
+  "owner_email": "earlybrightyoutube@gmail.com",
+  "language": "es",
+  "category": "Fiction",
+  "explicit": "false",
+  "base_url": "https://vivekreddy99.github.io/hora-ciega-podcast",
+  "link": "https://vivekreddy99.github.io/hora-ciega-podcast",
+  "cover": "art/cover.jpg",
+  "episodes": [
+    {
+      "num": "001",
+      "title": "La parada que no existe",
+      "description": "Catorce paradas, todas conocidas. Entonces la grabación del autobús nocturno anuncia una decimoquinta: Los Sauces. Nadie la ve en el mapa, pero alguien siempre se baja ahí. Historia original de terror narrada en español. Se recomienda escuchar con audífonos.",
+      "file": "episodes/001-la-parada-que-no-existe.mp3",
+      "duration": 512.928,
+      "bytes": 7251477,
+      "pubDate": "2026-07-09"
+    },
+    {
+      "num": "002",
+      "title": "Un cliente de más",
+      "description": "Veintidós clientes contados, veintitrés ventas registradas. Todas las madrugadas, a las 3:41, alguien compra una veladora, fósforos y una lata de sopa en un minisúper donde las cámaras no lo ven. Historia original de terror narrada en español.",
+      "file": "episodes/002-un-cliente-de-más.mp3",
+      "duration": 479.496,
+      "bytes": 6746997,
+      "pubDate": "2026-07-11"
+    },
+    {
+      "num": "003",
+      "title": "Alguien cuenta en el monitor",
+      "description": "Una voz de mujer cuenta cada madrugada en el monitor del bebé. No cuenta ovejas, ni segundos. Cuenta algo mucho más íntimo, y lo lleva contado todo. Historia original de terror narrada en español. Audífonos recomendados.",
+      "file": "episodes/003-alguien-cuenta-en-el-monitor.mp3",
+      "duration": 609.336,
+      "bytes": 8489757,
+      "pubDate": "2026-07-14"
+    },
+    {
+      "num": "004",
+      "title": "La caseta del kilómetro 37",
+      "description": "Un repartidor nocturno encuentra una caseta de cobro en una carretera donde nunca hubo peaje. Paga doce pesos. El recibo, leído en casa, dice que pagó otra cosa. Historia original de terror carretero narrada en español.",
+      "file": "episodes/004-la-caseta-del-kilómetro-37.mp3",
+      "duration": 392.04,
+      "bytes": 4817541,
+      "pubDate": "2026-07-28"
+    },
+    {
+      "num": "005",
+      "title": "El timbre del 4B",
+      "description": "Tres pisos, seis departamentos, y un botón de latón que llama a un cuarto piso que no existe. Cada martes, alguien pide subir. Historia original de terror narrada en español. Audífonos y puerta cerrada, por favor.",
+      "file": "episodes/005-el-timbre-del-4b.mp3",
+      "duration": 387.648,
+      "bytes": 4719741,
+      "pubDate": "2026-07-30"
+    },
+    {
+      "num": "006",
+      "title": "La canción que piden los sábados",
+      "description": "Una radio AM de pueblo, un turno de madrugada, y una oyente que cada sábado a las 3:15 pide una canción que no existe. En el sótano hay un carrete con dos etiquetas: el título del vals, y la orden de no transmitirlo jamás. Historia original de terror narrada en español.",
+      "file": "episodes/006-la-canción-que-piden-los-sábados.mp3",
+      "duration": 486.6,
+      "bytes": 6101109,
+      "pubDate": "2026-08-13"
+    },
+    {
+      "num": "007",
+      "title": "La lavadora número seis",
+      "description": "Una lavandería abierta 24 horas, una máquina que nadie carga y que nunca se detiene, y un visor que no cuenta minutos: cuenta días. Historia original de terror narrada en español. Que no te toque la número seis.",
+      "file": "episodes/007-la-lavadora-número-seis.mp3",
+      "duration": 878.328,
+      "bytes": 11046597,
+      "pubDate": "2026-08-13"
+    },
+    {
+      "num": "008",
+      "title": "El nombre extra en la lista",
+      "description": "Una maestra rural recibe una lista con un nombre de más: una alumna inscrita en 1961 que nunca falta, nunca se ve, y entrega las tareas perfectas. Historia original de terror narrada en español. Márcate presente.",
+      "file": "episodes/008-el-nombre-extra-en-la-lista.mp3",
+      "duration": 950.52,
+      "bytes": 11855181,
+      "pubDate": "2026-08-15"
+    }
+  ]
+}

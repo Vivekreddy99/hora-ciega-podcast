@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hora Ciega</title>
+    <link>https://vivekreddy99.github.io/hora-ciega-podcast</link>
+    <language>es</language>
+    <description>Historias originales de terror en espanol. Relatos lentos, inquietantes, narrados a oscuras. Una nueva historia cada semana. Escucha con las luces encendidas.</description>
+    <itunes:summary>Historias originales de terror en espanol. Relatos lentos, inquietantes, narrados a oscuras. Una nueva historia cada semana. Escucha con las luces encendidas.</itunes:summary>
+    <itunes:author>Hora Ciega</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Hora Ciega</itunes:name>
+      <itunes:email>earlybrightyoutube@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://vivekreddy99.github.io/hora-ciega-podcast/art/cover.jpg"/>
+    <itunes:category text="Fiction"/>
+    <image><url>https://vivekreddy99.github.io/hora-ciega-podcast/art/cover.jpg</url><title>Hora Ciega</title><link>https://vivekreddy99.github.io/hora-ciega-podcast</link></image>
+    <item>
+      <title>La parada que no existe</title>
+      <description>Catorce paradas, todas conocidas. Entonces la grabación del autobús nocturno anuncia una decimoquinta: Los Sauces. Nadie la ve en el mapa, pero alguien siempre se baja ahí. Historia original de terror narrada en español. Se recomienda escuchar con audífonos.</description>
+      <itunes:summary>Catorce paradas, todas conocidas. Entonces la grabación del autobús nocturno anuncia una decimoquinta: Los Sauces. Nadie la ve en el mapa, pero alguien siempre se baja ahí. Historia original de terror narrada en español. Se recomienda escuchar con audífonos.</itunes:summary>
+      <enclosure url="https://vivekreddy99.github.io/hora-ciega-podcast/episodes/001-la-parada-que-no-existe.mp3" length="7251477" type="audio/mpeg"/>
+      <guid isPermaLink="false">horaciega-001</guid>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>0:08:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>1</itunes:episode>
+    </item>
+    <item>
+      <title>Un cliente de más</title>
+      <description>Veintidós clientes contados, veintitrés ventas registradas. Todas las madrugadas, a las 3:41, alguien compra una veladora, fósforos y una lata de sopa en un minisúper donde las cámaras no lo ven. Historia original de terror narrada en español.</description>
+      <itunes:summary>Veintidós clientes contados, veintitrés ventas registradas. Todas las madrugadas, a las 3:41, alguien compra una veladora, fósforos y una lata de sopa en un minisúper donde las cámaras no lo ven. Historia original de terror narrada en español.</itunes:summary>
+      <enclosure url="https://vivekreddy99.github.io/hora-ciega-podcast/episodes/002-un-cliente-de-más.mp3" length="6746997" type="audio/mpeg"/>
+      <guid isPermaLink="false">horaciega-002</guid>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>0:07:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>2</itunes:episode>
+    </item>
+    <item>
+      <title>Alguien cuenta en el monitor</title>
+      <description>Una voz de mujer cuenta cada madrugada en el monitor del bebé. No cuenta ovejas, ni segundos. Cuenta algo mucho más íntimo, y lo lleva contado todo. Historia original de terror narrada en español. Audífonos recomendados.</description>
+      <itunes:summary>Una voz de mujer cuenta cada madrugada en el monitor del bebé. No cuenta ovejas, ni segundos. Cuenta algo mucho más íntimo, y lo lleva contado todo. Historia original de terror narrada en español. Audífonos recomendados.</itunes:summary>
+      <enclosure url="https://vivekreddy99.github.io/hora-ciega-podcast/episodes/003-alguien-cuenta-en-el-monitor.mp3" length="8489757" type="audio/mpeg"/>
+      <guid isPermaLink="false">horaciega-003</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>0:10:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>3</itunes:episode>
+    </item>
+    <item>
+      <title>La caseta del kilómetro 37</title>
+      <description>Un repartidor nocturno encuentra una caseta de cobro en una carretera donde nunca hubo peaje. Paga doce pesos. El recibo, leído en casa, dice que pagó otra cosa. Historia original de terror carretero narrada en español.</description>
+      <itunes:summary>Un repartidor nocturno encuentra una caseta de cobro en una carretera donde nunca hubo peaje. Paga doce pesos. El recibo, leído en casa, dice que pagó otra cosa. Historia original de terror carretero narrada en español.</itunes:summary>
+      <enclosure url="https://vivekreddy99.github.io/hora-ciega-podcast/episodes/004-la-caseta-del-kilómetro-37.mp3" length="4817541" type="audio/mpeg"/>
+      <guid isPermaLink="false">horaciega-004</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>0:06:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>4</itunes:episode>
+    </item>
+    <item>
+      <title>El timbre del 4B</title>
+      <description>Tres pisos, seis departamentos, y un botón de latón que llama a un cuarto piso que no existe. Cada martes, alguien pide subir. Historia original de terror narrada en español. Audífonos y puerta cerrada, por favor.</description>
+      <itunes:summary>Tres pisos, seis departamentos, y un botón de latón que llama a un cuarto piso que no existe. Cada martes, alguien pide subir. Historia original de terror narrada en español. Audífonos y puerta cerrada, por favor.</itunes:summary>
+      <enclosure url="https://vivekreddy99.github.io/hora-ciega-podcast/episodes/005-el-timbre-del-4b.mp3" length="4719741" type="audio/mpeg"/>
+      <guid isPermaLink="false">horaciega-005</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>0:06:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>5</itunes:episode>
+    </item>
+    <item>
+      <title>La canción que piden los sábados</title>
+      <description>Una radio AM de pueblo, un turno de madrugada, y una oyente que cada sábado a las 3:15 pide una canción que no existe. En el sótano hay un carrete con dos etiquetas: el título del vals, y la orden de no transmitirlo jamás. Historia original de terror narrada en español.</description>
+      <itunes:summary>Una radio AM de pueblo, un turno de madrugada, y una oyente que cada sábado a las 3:15 pide una canción que no existe. En el sótano hay un carrete con dos etiquetas: el título del vals, y la orden de no transmitirlo jamás. Historia original de terror narrada en español.</itunes:summary>
+      <enclosure url="https://vivekreddy99.github.io/hora-ciega-podcast/episodes/006-la-canción-que-piden-los-sábados.mp3" length="6101109" type="audio/mpeg"/>
+      <guid isPermaLink="false">horaciega-006</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>0:08:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>6</itunes:episode>
+    </item>
+    <item>
+      <title>La lavadora número seis</title>
+      <description>Una lavandería abierta 24 horas, una máquina que nadie carga y que nunca se detiene, y un visor que no cuenta minutos: cuenta días. Historia original de terror narrada en español. Que no te toque la número seis.</description>
+      <itunes:summary>Una lavandería abierta 24 horas, una máquina que nadie carga y que nunca se detiene, y un visor que no cuenta minutos: cuenta días. Historia original de terror narrada en español. Que no te toque la número seis.</itunes:summary>
+      <enclosure url="https://vivekreddy99.github.io/hora-ciega-podcast/episodes/007-la-lavadora-número-seis.mp3" length="11046597" type="audio/mpeg"/>
+      <guid isPermaLink="false">horaciega-007</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>0:14:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>7</itunes:episode>
+    </item>
+    <item>
+      <title>El nombre extra en la lista</title>
+      <description>Una maestra rural recibe una lista con un nombre de más: una alumna inscrita en 1961 que nunca falta, nunca se ve, y entrega las tareas perfectas. Historia original de terror narrada en español. Márcate presente.</description>
+      <itunes:summary>Una maestra rural recibe una lista con un nombre de más: una alumna inscrita en 1961 que nunca falta, nunca se ve, y entrega las tareas perfectas. Historia original de terror narrada en español. Márcate presente.</itunes:summary>
+      <enclosure url="https://vivekreddy99.github.io/hora-ciega-podcast/episodes/008-el-nombre-extra-en-la-lista.mp3" length="11855181" type="audio/mpeg"/>
+      <guid isPermaLink="false">horaciega-008</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>0:15:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>8</itunes:episode>
+    </item>
+  </channel>
+</rss>
