@@ -105,5 +105,16 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>8</itunes:episode>
     </item>
+    <item>
+      <title>El pozo que devuelve lo prestado</title>
+      <description>Un pozo rural devuelve los objetos perdidos de una familia durante un siglo. Lo que parece un milagro es una cuenta por cobrar. Historia original de terror narrada en español.</description>
+      <itunes:summary>Un pozo rural devuelve los objetos perdidos de una familia durante un siglo. Lo que parece un milagro es una cuenta por cobrar. Historia original de terror narrada en español.</itunes:summary>
+      <enclosure url="https://vivekreddy99.github.io/hora-ciega-podcast/episodes/009-el-pozo-que-devuelve-lo-prestado.mp3" length="11740749" type="audio/mpeg"/>
+      <guid isPermaLink="false">horaciega-009</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>0:15:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>9</itunes:episode>
+    </item>
   </channel>
 </rss>
