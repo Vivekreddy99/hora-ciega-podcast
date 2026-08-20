@@ -116,5 +116,16 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>9</itunes:episode>
     </item>
+    <item>
+      <title>El pupitre que no se podía mover</title>
+      <description>Un pupitre torcido que no se puede enderezar es la pista que lleva a un maestro de secundaria a descubrir qué hay debajo del patio de la escuela. Historia original de terror escolar narrada en español.</description>
+      <itunes:summary>Un pupitre torcido que no se puede enderezar es la pista que lleva a un maestro de secundaria a descubrir qué hay debajo del patio de la escuela. Historia original de terror escolar narrada en español.</itunes:summary>
+      <enclosure url="https://vivekreddy99.github.io/hora-ciega-podcast/episodes/010-el-pupitre-que-no-se-pod-a-mover.mp3" length="10723509" type="audio/mpeg"/>
+      <guid isPermaLink="false">horaciega-010</guid>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>0:14:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>10</itunes:episode>
+    </item>
   </channel>
 </rss>
