@@ -127,5 +127,16 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>10</itunes:episode>
     </item>
+    <item>
+      <title>La cama 12 del piso 6 nunca se desocupa</title>
+      <description>La cama 12 de un hospital lleva cincuenta años reservada sin que nadie sepa para quién. Lo que duerme en ella no es un paciente. Historia original de terror hospitalario narrada en español.</description>
+      <itunes:summary>La cama 12 de un hospital lleva cincuenta años reservada sin que nadie sepa para quién. Lo que duerme en ella no es un paciente. Historia original de terror hospitalario narrada en español.</itunes:summary>
+      <enclosure url="https://vivekreddy99.github.io/hora-ciega-podcast/episodes/011-la-cama-12-del-piso-6-nunca-se-desocupa.mp3" length="11550093" type="audio/mpeg"/>
+      <guid isPermaLink="false">horaciega-011</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>0:15:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>11</itunes:episode>
+    </item>
   </channel>
 </rss>
