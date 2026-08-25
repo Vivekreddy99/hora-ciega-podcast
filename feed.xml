@@ -138,5 +138,16 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>11</itunes:episode>
     </item>
+    <item>
+      <title>La estantería 7 se vacía sola</title>
+      <description>Un almacén de farmacias construido sobre un cementerio que no se desocupó. Cada noche, la estantería siete entrega algo que no es medicamento. Historia original de terror de turno nocturno narrada en español.</description>
+      <itunes:summary>Un almacén de farmacias construido sobre un cementerio que no se desocupó. Cada noche, la estantería siete entrega algo que no es medicamento. Historia original de terror de turno nocturno narrada en español.</itunes:summary>
+      <enclosure url="https://vivekreddy99.github.io/hora-ciega-podcast/episodes/012-la-estanter-a-7-se-vac-a-sola.mp3" length="9127005" type="audio/mpeg"/>
+      <guid isPermaLink="false">horaciega-012</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>0:11:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>12</itunes:episode>
+    </item>
   </channel>
 </rss>
