@@ -149,5 +149,16 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>12</itunes:episode>
     </item>
+    <item>
+      <title>El cuarto que no tiene nada</title>
+      <description>Un cuarto colonial que lleva treinta y siete años cerrado no contiene nada. La nada que contiene lleva todo ese tiempo esperando. Historia original de terror de lugares abandonados narrada en español.</description>
+      <itunes:summary>Un cuarto colonial que lleva treinta y siete años cerrado no contiene nada. La nada que contiene lleva todo ese tiempo esperando. Historia original de terror de lugares abandonados narrada en español.</itunes:summary>
+      <enclosure url="https://vivekreddy99.github.io/hora-ciega-podcast/episodes/013-el-cuarto-que-no-tiene-nada.mp3" length="9810117" type="audio/mpeg"/>
+      <guid isPermaLink="false">horaciega-013</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>0:11:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>13</itunes:episode>
+    </item>
   </channel>
 </rss>
