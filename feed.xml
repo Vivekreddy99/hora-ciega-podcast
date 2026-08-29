@@ -160,5 +160,16 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>13</itunes:episode>
     </item>
+    <item>
+      <title>Los cuartos que aparecen en el álbum</title>
+      <description>Doce fotos de un cuarto vacío tomadas cada cinco años revelan algo que lleva sesenta años saliendo de la pared. Historia original de terror de secretos familiares narrada en español.</description>
+      <itunes:summary>Doce fotos de un cuarto vacío tomadas cada cinco años revelan algo que lleva sesenta años saliendo de la pared. Historia original de terror de secretos familiares narrada en español.</itunes:summary>
+      <enclosure url="https://vivekreddy99.github.io/hora-ciega-podcast/episodes/014-los-cuartos-que-aparecen-en-el-lbum.mp3" length="10169589" type="audio/mpeg"/>
+      <guid isPermaLink="false">horaciega-014</guid>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>0:12:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>14</itunes:episode>
+    </item>
   </channel>
 </rss>
