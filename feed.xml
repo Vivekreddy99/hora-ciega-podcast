@@ -171,5 +171,16 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>14</itunes:episode>
     </item>
+    <item>
+      <title>La velación que no se puede apagar</title>
+      <description>Doce veladoras que no se consumen y una velación que dura veinticuatro horas. Lo que la abuela pidió no fue una costumbre: fue un trato. Historia original de terror de viejas costumbres narrada en español.</description>
+      <itunes:summary>Doce veladoras que no se consumen y una velación que dura veinticuatro horas. Lo que la abuela pidió no fue una costumbre: fue un trato. Historia original de terror de viejas costumbres narrada en español.</itunes:summary>
+      <enclosure url="https://vivekreddy99.github.io/hora-ciega-podcast/episodes/015-la-velaci-n-que-no-se-puede-apagar.mp3" length="9726381" type="audio/mpeg"/>
+      <guid isPermaLink="false">horaciega-015</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>0:12:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>15</itunes:episode>
+    </item>
   </channel>
 </rss>
