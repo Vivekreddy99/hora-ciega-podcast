@@ -182,5 +182,16 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>15</itunes:episode>
     </item>
+    <item>
+      <title>El cruce que cobra peaje</title>
+      <description>Una calle que aparece a las tres de la madrugada en un cruce que no debería tener tres salidas. El peaje que cobra no es dinero: son recuerdos. Historia original de terror urbano narrada en español.</description>
+      <itunes:summary>Una calle que aparece a las tres de la madrugada en un cruce que no debería tener tres salidas. El peaje que cobra no es dinero: son recuerdos. Historia original de terror urbano narrada en español.</itunes:summary>
+      <enclosure url="https://vivekreddy99.github.io/hora-ciega-podcast/episodes/016-el-cruce-que-cobra-peaje.mp3" length="10610685" type="audio/mpeg"/>
+      <guid isPermaLink="false">horaciega-016</guid>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>0:13:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>16</itunes:episode>
+    </item>
   </channel>
 </rss>
